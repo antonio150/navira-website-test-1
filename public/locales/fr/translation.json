@@ -1,0 +1,14 @@
+{
+    "Home":{
+        "1": "Accueil"
+    },
+    "Services": {
+        "1": "Service"
+    },
+    "Product": {
+        "1": "Produit"
+    },
+    "Sign up": {
+        "1": "Connexion"
+    }
+}
